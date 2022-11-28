@@ -8,3 +8,5 @@
 - Menu içerisinde yer alacak olan elemanlar için de 'class' özellikleri verilerek ekleme sağlandı
 - Reduce kullanılarak dizimizde yer alan nesneler yeni diziye aktarıldı ve kategoriler oluşturuldu
 - Butona tıklama özelliği için click fonksiyonu oluşturuldu
+
+[Demo linki için tıklayınız](https://acelyabasak.github.io/asianKitchenMenuProject/)
